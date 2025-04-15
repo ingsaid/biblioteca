@@ -1,0 +1,31 @@
+<div style="text-align: center; margin: 20px 0;">
+  <a href="https://tu-enlace-de-compra.com" target="_blank" style="
+      display: inline-block;
+      background-color: #ff3c78;
+      color: white;
+      font-size: 18px;
+      font-weight: bold;
+      padding: 16px 30px;
+      border-radius: 50px;
+      text-decoration: none;
+      animation: pulse 1.2s infinite;
+      box-shadow: 0 0 0 rgba(255, 60, 120, 0.7);
+      transition: transform 0.2s ease-in-out;
+    ">
+    ⏳ ¡Últimas unidades! Compra ya
+  </a>
+</div>
+
+<style>
+@keyframes pulse {
+  0% {
+    box-shadow: 0 0 0 0 rgba(255, 60, 120, 0.7);
+  }
+  70% {
+    box-shadow: 0 0 0 15px rgba(255, 60, 120, 0);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(255, 60, 120, 0);
+  }
+}
+</style>
