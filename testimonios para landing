@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Testimonios de Clientes</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #fffdfc;
+      margin: 0;
+      padding: 2rem;
+      color: #333;
+    }
+    .testimonial-section {
+      max-width: 800px;
+      margin: 0 auto;
+      text-align: center;
+    }
+    .testimonial-section h2 {
+      font-size: 2rem;
+      margin-bottom: 1.5rem;
+      color: #222;
+    }
+    .testimonials {
+      display: grid;
+      gap: 1.5rem;
+    }
+    .testimonial {
+      background-color: #fff;
+      border-radius: 1rem;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+      padding: 1.5rem;
+      text-align: left;
+    }
+    .testimonial p {
+      font-size: 1rem;
+      margin-bottom: 0.5rem;
+    }
+    .stars {
+      color: #ffc107;
+      font-size: 1.2rem;
+    }
+    .author {
+      font-weight: bold;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <section class="testimonial-section">
+    <h2>Lo que dicen nuestras clientas 💖</h2>
+    <div class="testimonials">
+      <div class="testimonial">
+        <p>“Las amo, no me duelen los pies y combinan con todo. Compré otro par para mi mamá.”</p>
+        <div class="stars">⭐⭐⭐⭐⭐</div>
+        <div class="author">- Natalia, Cali</div>
+      </div>
+      <div class="testimonial">
+        <p>“Perfectas para caminar todo el día. Me siento segura con su suela antideslizante.”</p>
+        <div class="stars">⭐⭐⭐⭐⭐</div>
+        <div class="author">- Paola, Medellín</div>
+      </div>
+      <div class="testimonial">
+        <p>“Nunca había recibido tantos halagos por unas sandalias. ¡Gracias!”</p>
+        <div class="stars">⭐⭐⭐⭐⭐</div>
+        <div class="author">- Laura, Bogotá</div>
+      </div>
+    </div>
+  </section>
+</body>
+</html>
