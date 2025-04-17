@@ -1,0 +1,17 @@
+<h2 style="text-align:center;">❤️ ¡Ellas ya lo probaron y lo AMAN! 👡</h2>
+<p style="text-align:center;">Descubre por qué nuestras clientas no dejan de hablar maravillas sobre sus sandalias. ¡Comodidad, estilo y confianza en cada paso! ⭐⭐⭐⭐⭐</p>
+
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; padding: 20px;">
+  <div style="max-width: 240px; text-align: center;">
+    <img src="https://imgur.com/KJpjE69" style="width: 100%; border-radius: 12px;" alt="Testimonio Karla">
+    <p style="font-style: italic;">"Gracias a sus terapias, mi hijo ha mejorado muchísimo"<br><strong>– Karla, mamá de Santiago</strong></p>
+  </div>
+  <div style="max-width: 240px; text-align: center;">
+    <img src="https://imgur.com/8579jry" style="width: 100%; border-radius: 12px;" alt="Testimonio 2">
+    <p style="font-style: italic;">"¡No puedo creer el cambio en tan poco tiempo!"<br><strong>– Testimonio real</strong></p>
+  </div>
+  <div style="max-width: 240px; text-align: center;">
+    <img src="https://imgur.com/FUvgEpD" style="width: 100%; border-radius: 12px;" alt="Testimonio 3">
+    <p style="font-style: italic;">"Se siente acompañamiento en cada paso"<br><strong>– Cliente feliz</strong></p>
+  </div>
+</div>
