@@ -1,0 +1,32 @@
+<div style="text-align: center; margin: 20px 0;">
+  <a href="https://wa.me/573156160203?text=Hola%2C%20tengo%20algunas%20preguntas%20que%20me%20gustar%C3%ADa%20realizar%20%E2%9C%A8%F0%9F%91%A1" 
+     target="_blank" style="
+      display: inline-block;
+      background-color: #28a745;
+      color: white;
+      font-size: 18px;
+      font-weight: bold;
+      padding: 16px 30px;
+      border-radius: 50px;
+      text-decoration: none;
+      animation: pulse 1.2s infinite;
+      box-shadow: 0 0 0 rgba(40, 167, 69, 0.7);
+      transition: transform 0.2s ease-in-out;
+    ">
+    📲 ¡Resuelve tus dudas aquí!
+  </a>
+</div>
+
+<style>
+@keyframes pulse {
+  0% {
+    box-shadow: 0 0 0 0 rgba(40, 167, 69, 0.7);
+  }
+  70% {
+    box-shadow: 0 0 0 15px rgba(40, 167, 69, 0);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(40, 167, 69, 0);
+  }
+}
+</style>
